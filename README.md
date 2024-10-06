@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Roman 👋
 
 ![Welcome Banner](https://user-images.githubusercontent.com/your-banner-link)
 
