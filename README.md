@@ -1,7 +1,5 @@
 # Hello, I'm Roman 👋
 
-![Welcome Banner](https://user-images.githubusercontent.com/your-banner-link)
-
 I’m a passionate developer who loves to work on exciting projects. I enjoy building web applications, automating workflows, and learning new technologies.
 
 ### 🚀 About Me
@@ -24,13 +22,3 @@ I’m a passionate developer who loves to work on exciting projects. I enjoy bui
 | **GitHub Stats** | **Top Languages** |
 | --- | --- |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VVriter&show_icons=true&hide_border=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VVriter&layout=compact&hide_border=true&theme=radical) |
-
-### 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VVriter&theme=radical&hide_border=true)
-
----
-
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VVriter&theme=radical&no-frame=true)
